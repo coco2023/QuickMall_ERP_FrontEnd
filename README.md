@@ -5,7 +5,7 @@ This is a Enterprise resource planning(ERP) management System for the QuickMall 
 deploy on AWS Amplify: https://develop.d1jgapjvhkmffq.amplifyapp.com
 
 
-# Deplpoy
+# Deploy
 
 ```
 

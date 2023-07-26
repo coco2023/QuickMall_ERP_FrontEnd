@@ -2,7 +2,7 @@
 
 This is a Enterprise resource planning(ERP) management System for the QuickMall E-commerce platform. It manages the Product, Employee, Customer, Order service for Platform and Suppliers side to improve their management and communication efficiency.
 
-deploy on AWS Amplify: https://develop.d1jgapjvhkmffq.amplifyapp.com/dashboards/project
+deploy on AWS Amplify: https://develop.d1jgapjvhkmffq.amplifyapp.com
 
 
 # Deplpoy

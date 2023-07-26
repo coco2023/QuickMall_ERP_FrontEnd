@@ -1,4 +1,49 @@
-# Fuse - Admin template and Starter project for Angular
+# Quick_Mall ERP Frontend
+
+This is a Enterprise resource planning(ERP) management System for the QuickMall E-commerce platform. It manages the Product, Employee, Customer, Order service for Platform and Suppliers side to improve their management and communication efficiency.
+
+deploy on AWS Amplify: https://develop.d1jgapjvhkmffq.amplifyapp.com/dashboards/project
+
+
+# Deplpoy
+
+```
+
+> ## Amplify settings
+
+> npm install --save aws-amplify aws-amplify-angular
+
+> npm install -g @aws-amplify/cli
+
+> amplify configure
+
+> amplify init
+
+> amplify add auth
+
+> amplify push
+
+> 1. goto AWS -- Amplify -- Project and connect the Hosting with gitHub Repository.
+> 2. add the 'amplify.yml' into the project root path
+
+> ## Github settings
+> git add .
+> git commit -m " commit changes"
+> git push
+
+> visit the amplify website
+
+```
+
+## Refer
+[1] https://gerard-sans.medium.com/build-your-first-full-stack-serverless-app-with-angular-and-aws-amplify-d2e4716de9bd
+
+[2] https://docs.aws.amazon.com/amplify/latest/userguide/team-workflows-with-amplify-cli-backend-environments.html
+
+[3] https://docs.amplify.aws/start/getting-started/hosting/q/integration/angular/
+
+
+# Running on Local Machine
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
